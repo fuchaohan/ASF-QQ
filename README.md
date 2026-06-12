@@ -62,6 +62,16 @@ python main.py
 
 ## Docker 运行
 
+镜像地址：
+
+- Docker Hub: `https://hub.docker.com/r/fufuchao/asf-qq`
+
+拉取镜像：
+
+```bash
+docker pull fufuchao/asf-qq
+```
+
 构建镜像：
 
 ```bash
