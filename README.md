@@ -1,5 +1,7 @@
 # ASF-QQ
 
+代码来自 `https://keylol.com/t970754-1-1`，其余内容为 AI 生成，本仓库仅作自用备份。
+
 一个通过 WebSocket 接收 QQ 消息，并调用 ASF API 执行 Steam 挂卡、停止挂卡和兑换 Key 的简单示例项目。
 
 ## 功能
